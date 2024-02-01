@@ -9,7 +9,7 @@ import Cyber from './Cyber';
 
 import './App.css'; // Import the CSS file for styling
 
-function App() {
+function App() { 
   return (
     <Router>
       <div className="App">
